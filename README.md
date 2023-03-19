@@ -1,5 +1,6 @@
 Project Description
 This project contains a set of Power BI reports and dashboards for analyzing personal finance data. The purpose of this project is to help individual track his/her expenses and act accordingly
+
 Installation Instructions
 To install the Power BI files, follow these steps:
 
@@ -7,6 +8,7 @@ Download the files from the GitHub repository.
 Open Power BI Desktop.
 Click "Open" and select the downloaded .pbix file.
 If prompted, enter the credentials for your data sources.
+
 Data Sources
 The data for this source is from my personal expenses:
 
