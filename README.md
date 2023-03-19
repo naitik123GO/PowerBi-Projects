@@ -34,8 +34,11 @@ Here are some screenshots of the reports:
 
 Contributing Guidelines
 If you want to contribute to this project, please follow these guidelines:
+
 Fork the repository.
+
 Make your changes in a separate branch.
+
 Submit a pull request to merge your changes into the main branch.
 
 Contact Information
