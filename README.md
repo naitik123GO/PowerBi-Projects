@@ -15,10 +15,15 @@ The data for this source is from my personal expenses:
 This project contains the following reports:
 
 Financial Overview: A high-level overview of Income, including expenses on different things, monthly income and expenses data.
-expeses and income per month: A Combination of two lines which shows the trend of expenses with respect to income.
+
+expenses and income per month: A Combination of two lines which shows the trend of expenses with respect to income.
+
 Matrix card: It shows in which month expenses got higher tha income.
+
 Sum from different perspective: sum of every column individually in order to easy understanding of data.
+
 income and expenses comparison: An analysis of income over time with several expenses including shopping, travel, and foods etc.
+
 Screenshots
 Here are some screenshots of the reports:
 
@@ -32,5 +37,6 @@ If you want to contribute to this project, please follow these guidelines:
 Fork the repository.
 Make your changes in a separate branch.
 Submit a pull request to merge your changes into the main branch.
+
 Contact Information
 If you have any questions or feedback about this project, please contact me at singhnaitik06@gmail.com
